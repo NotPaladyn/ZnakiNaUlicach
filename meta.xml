@@ -1,0 +1,10 @@
+<meta>
+	<info name="System znaków" author="NotPaladyn" type="script" version="1.0"/>
+
+	<script src="c_signs.lua" type="client" cache="false"/>
+	<script src="c_utils.lua" type="client" cache="false"/>
+	<script src="c_positions.lua" type="client" cache="false"/>
+
+	<file src="images/none.png"/>
+	<file src="images/50.png"/>
+</meta>
